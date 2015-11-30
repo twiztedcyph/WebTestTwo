@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Aug-2015, 11:35:09
+    Author     : Max
+*/
+
+body {padding:3%}
+
+div.vesselNameDiv
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+}
+
+p.vesselName{
+    
+    font-family: Arial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    font-size: 400%;
+    line-height: 100%;
+}
+
+div.dailyInfo{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-family: Arial;
+    white-space: normal;
+}
+p.vesselSubInfo{
+    font-family: Arial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 4px;
+    padding-top: 3px;
+}
+
+p.SummaryTitle{
+    font-size: 26px;
+    font-family: "Arial";
+    margin-bottom:auto;
+    margin-top:auto;
+    margin-left:2.5%;
+    display: block;
+    
+}
+div.textboxtitle
+{
+    width: 99.5%;
+    border:1px solid #000;
+    
+    font-family: Arial;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(78,79,77);
+    color:white;
+
+}
+
+p.SummaryTextboxText{
+    font-family: "Arial";
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 22px;
+}
+div.textbox
+{
+    width: 99.5%;
+    border:1px solid #000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1%;
+
+    margin-bottom: 3%;
+    overflow:auto;
+
+}
+
+div.centre
+{
+    width: 100%;
+    height:100px;
+    border:2px solid #000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+p.copyright{
+    margin-left: 10%;
+   
+    display: block;
+}
+div.vesselSummary
+{
+    width: 100%;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(47,171,177);
+
+    margin-top: 2.5%; 
+    margin-bottom: 2.5%;
+    font-family: Arial;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    line-height: 4px;
+    overflow:auto;
+}
+p.WFname{
+
+    
+    color:white;
+    margin-left:2.5%;
+    font-size: 40px;
+}
+
+p.WFheader{
+    color:rgb(78,79,77);
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 22px;
+    font-family: Arial;}
+
+p.WFtext{color:white;
+         font-size: 19px;
+         font-family: Arial;
+         line-height: 19px;
+         margin-left: 5%;
+         margin-right: 5%;
+         margin-bottom: 15%;
+}
+
+
